@@ -66,8 +66,7 @@ pip install pandas numpy matplotlib scikit-learn tensorflow kagglehub
 ## 📊 Results & Visualization
 The model produces a visual forecast comparing **Actual Demand** vs. **AI Forecast**. 
 
-> **Note:** Upload your final Matplotlib plot as `results.png` to your repository and link it here to showcase your model's accuracy!
-
+![Final AI Grid Forecast](results.png)
 ---
 
 ## 📁 Project Structure
