@@ -1,5 +1,15 @@
 # ⚡ PJM Electricity Grid Forecasting
 ### Deep Learning for Real-Time Energy Demand Prediction using LSTM
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+
+</div>
 
 This project implements a **Time-Series Forecasting** model using a **Long Short-Term Memory (LSTM)** neural network to predict hourly electricity consumption for the PJM East regional grid. It includes a custom "Stress Test" feature to simulate grid stability during extreme weather events.
 
