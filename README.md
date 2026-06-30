@@ -11,7 +11,7 @@
 
 </div>
 
-This project implements a **Time-Series Forecasting** model using a **Long Short-Term Memory (LSTM)** neural network to predict hourly electricity consumption for the PJM East regional grid. It includes a custom "Stress Test" feature to simulate grid stability during extreme weather events.
+This project implements a **Time-Series Forecasting** model using a **Long Short-Term Memory (LSTM)** neural network to predict hourly electricity consumption for the PJM (Pennsylvania, New Jersey, and Maryland) East regional grid. It includes a custom "Stress Test" feature to simulate grid stability during extreme weather events.
 
 ---
 
